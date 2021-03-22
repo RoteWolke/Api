@@ -1,0 +1,9 @@
+**/bin/
+**/target/
+**/workspace/
+**/.metadata
+**/*.swp
+**/*.tps
+**/*.bak
+**/hs_err_pid*.log
+**/replay_pid*.log
